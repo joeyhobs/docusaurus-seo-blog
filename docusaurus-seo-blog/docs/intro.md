@@ -96,7 +96,7 @@ print("Welcome to my new docusaurus website")
 :white_check_mark:two <br/>
 :white_check_mark:three <br/>
 
-[ ] Empty box
-[x] Completed
+- [ ] Undone
+- [x] Completed
 
 Demo complete
