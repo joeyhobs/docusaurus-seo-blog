@@ -46,6 +46,8 @@ The `npm run start` command builds your website locally and serves it through a 
 
 Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
 
+## Testing Extended Markdown in Docusaurus
+
 :::tip vs code tips and tricks
 :bulb: This is a tool tip 1 <br/>
 :bulb::bulb: This is a tool tip 2<br/>
@@ -106,3 +108,21 @@ Demo complete
 - [x] Completed
 - [ ] Undone
 - [x] Completed
+
+| Id    | Names | Contact | Email         |
+|:-----:| ----- | ------- |:-------------:|
+| 0989  | JOEY  | HOBS    | jh@gmail.com  |
+| 6768  | JAMES | HANS    | jh2@gmail.com |
+| 6545  | JOHN  | HAP     | jh3@gmail.com |
+| 46767 | JACK  | HORN    | jh4@gmail.com |
+
+
+<details>
+ <summary>Expand to view full code</summary>
+├───components
+├───css
+└───pages
+</details>
+
+[This is a comment]: #
+
